@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @hazelfan
  - 👀 I’m interested in big data analysis/ data visualization/ data story telling
- - 🌱 I’m currently learning data manipulation w/ Python, trying to futher my career path to become a Data Scientist one data 
+ - 🌱 I’m currently learning data manipulation w/ Python, trying to futher my career path to become a Data Scientist one day
  - 💞️ I’m looking to collaborate on anything actually, but if you're working on healthcare data I can provide some insights:)
  - 📫 How to reach me - fengjungfan@gmail.com (this is my personal Email, please don't sent me junk emails or I will block you lol)
  - 😄 Pronouns: she/her
